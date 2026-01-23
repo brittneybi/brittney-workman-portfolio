@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python/R
+__pycache__/
+*.pyc
+.Rproj.user/
+
+# Node (if you customize Pages)
+node_modules/
+
+# Power BI temp/cache
+*.tmp
+*.bak
+
+# Images and assets are allowed, but avoid raw huge video files

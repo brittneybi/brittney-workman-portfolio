@@ -1,6 +1,6 @@
 # Brittney Workman — BI Portfolio
 
-Hi! I’m **Brittney**, a Business Intelligence Analyst focused on turning data into actionable insight using **Power BI**, **DAX**, **Power Query (M)**, **SQL**, **Python**, and **R**.
+Hi! I’m **Brittney**, a Business Intelligence Analyst focused on turning data into actionable insight using **Power BI**, **DAX**, **Power Query**, **SQL**, **Python**, and **R**.
 
 This portfolio highlights sample projects (with **sample/synthetic datasets only**) to showcase modeling, DAX patterns, visual design, storytelling, and scripting for data prep and automation.
 
@@ -31,11 +31,7 @@ Each project is its own repository with: sample data, scripts, documentation, sc
 
 | Project | Focus | Highlights | Repo |
 |---|---|---|---|
-| Retail Sales Insights | DAX time intelligence, bookmarks, drillthrough | YoY/YoY%, dynamic segments, KPI cards | https://github.com/brittneybi/pbi-retail-sales-sample |
-| Customer Churn Explorer | Classification demo, Power BI + Python | Probability bands, cohort analysis, SHAP chart images | https://github.com/brittneybi/pbi-customer-churn-sample |
-| Marketing Attribution | Multi-touch model (heuristics), R & DAX | UTM parsing, assisted conversions, data model diagram | https://github.com/brittneybi/pbi-marketing-attribution-sample |
-| Supply Chain OTIF | Ops KPIs, anomalies, RLS demo | Yearly seasonality, OTIF calc, row-level role setup | https://github.com/brittneybi/pbi-otif-supplychain-sample |
-| Finance P&L Template | Matrix layouts, calc groups | Waterfall, variance decomposition, custom subtotals | https://github.com/brittneybi/pbi-pl-template-sample |
+| HR Workforce & Compensation Analytics | DAX time intelligence, KPIs, drillthrough | variance decomposition, dynamic segments, seasonality | https://github.com/brittneybi/pbi-HR-workforce-analytics-sample |
 
 > Click into each repo for full documentation, data, scripts, and visuals.
 

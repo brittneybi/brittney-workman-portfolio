@@ -29,9 +29,9 @@ This portfolio highlights sample projects (with **sample/synthetic datasets only
 
 Each project is its own repository with: sample data, scripts, documentation, screenshots/GIFs, and a .pbix when size allows.
 
-| Project | Focus | Highlights | Repo |
+| Project | Repo | Focus | Highlights |
 |---|---|---|---|
-| HR Workforce & Compensation Analytics | DAX time intelligence, KPIs, drillthrough | variance decomposition, dynamic segments, seasonality | https://github.com/brittneybi/pbi-HR-workforce-analytics-sample |
+| HR Workforce & Compensation Analytics | https://github.com/brittneybi/pbi-HR-workforce-analytics-sample | DAX time intelligence, KPIs, drillthrough | variance decomposition, dynamic segments, seasonality |
 
 <div class="grid">
     <div class="body">
@@ -88,5 +88,3 @@ Each project is its own repository with: sample data, scripts, documentation, sc
 - `.pbix` files may be omitted if they exceed GitHub’s 100MB limit.
 - For larger assets, previews (screenshots/GIFs) and the full **documentation** are provided.
 - All repos are MIT-licensed (see LICENSE) and for demonstration/educational use.
-
-Thanks for visiting!

@@ -32,12 +32,20 @@ Each project is its own repository with: sample data, scripts, documentation, sc
 | Project | Repo | Focus | Highlights |
 |---|---|---|---|
 | HR Workforce & Compensation Analytics | https://github.com/brittneybi/pbi-HR-workforce-analytics-sample | DAX time intelligence, KPIs, drillthrough | variance decomposition, dynamic segments, seasonality |
+| Timeclock & Employee Payroll Report | https://github.com/brittneybi/pbi-timeclock-employee-payroll-sample | Dynamic date filters (Pay Period, Last 7 Days, Custom) | Daily, weekly, and pay‑period tracking |
 
 <div class="grid">
     <div class="body">
       <h3>1. HR Workforce &amp; Compensation Analytics</h3>
-      <p>Power BI sample project with .pbix report file, documentation, scripts, and visuals.</p>
-        <a class="card" href="https://github.com/brittneybi/pbi-HR-workforce-analytics-sample" target="_blank" rel="noopener">
+         <p> 
+       
+    A focused Power BI report for analyzing workforce composition and compensation. It answers practical questions such as:
+        - How many active employees do we have today and how has headcount changed?
+        - What is our compensation run‑rate, and how does it split across salary vs. hourly roles?
+        - How do departments and locations compare on average/median compensation and headcount?            
+        - What are the hire and exit patterns (timing and reasons) of our employees, and how do they affect current cost?
+</p>
+    <a class="card" href="https://github.com/brittneybi/pbi-HR-workforce-analytics-sample" target="_blank" rel="noopener">
 <img
     src="https://raw.githubusercontent.com/brittneybi/pbi-HR-workforce-analytics-sample/main/documentation/Page1-EXECUTIVE.png"
     alt="HR Workforce &amp; Compensation Analytics — Executive page"

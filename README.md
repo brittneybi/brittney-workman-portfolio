@@ -41,7 +41,8 @@ Each project is its own repository with: sample data, scripts, documentation, sc
       <h3>1. HR Workforce &amp; Compensation Analytics</h3>
          <p> 
        
-    A focused Power BI report for analyzing workforce composition and compensation. It answers practical questions such as:
+    A focused Power BI report for analyzing workforce composition and compensation. 
+    It answers practical questions such as:
         - How many active employees do we have today and how has headcount changed?
         - What is our compensation run‑rate, and how does it split across salary vs. hourly roles?
         - How do departments and locations compare on average/median compensation and headcount?            
